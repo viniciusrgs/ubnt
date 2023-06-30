@@ -1,4 +1,4 @@
-<strong> Procedimentos para conectar UAC-AP Ubiquiti na Controller Wifi.
+<strong> Procedimentos para conectar UAC-AP Ubiquiti na Controller Wifi.</strong>
 
 Reset default AP
 
