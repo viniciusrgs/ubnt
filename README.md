@@ -1,13 +1,13 @@
-Procedimentos para conectar UAC-AP Ubiquiti na Controller Wifi.
+# Procedimento para conectar  UAC-AP Ubiquiti na controller wifi.
 
-Reset default AP
+# Reset default das configurações do UAC-AP
 
 syswrapper.sh restore-default - reset default 
 
-Infomar ao UAC-AP o enderamento e porta da controller
+# Comando para conectar o UAC-AP na controller 
 
 set-inform http://IP:8080/inform
 
-Verificar configurações do UAC-AP
+# Verificar configuraçãoes do UAC-AP
 
 cat /tmp/running.cfg
